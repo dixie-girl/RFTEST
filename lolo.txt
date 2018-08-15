@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8FC-FE0E
+
+ Directory of C:\RFTEST
+
+08/15/2018  03:58 PM    <DIR>          .
+08/15/2018  03:58 PM    <DIR>          ..
+08/15/2018  03:01 PM    <DIR>          Lib
+08/15/2018  03:59 PM                 0 lolo.txt
+08/15/2018  12:37 PM    <DIR>          Sequence
+               1 File(s)              0 bytes
+               4 Dir(s)  19,400,003,584 bytes free
